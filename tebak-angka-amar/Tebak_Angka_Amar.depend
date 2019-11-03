@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571043798 source:e:\tugas\amar full\tebak-angka-amar\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
